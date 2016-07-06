@@ -44,8 +44,7 @@ class ApiDocGeneratorServiceProvider extends ServiceProvider
     }
 
     /**
-     * Return a fully qualified path to a given file relative
-     * to the storage directory
+     * Return a fully qualified path to a given file relative to the storage directory
      *
      * @param string $path
      * @return string
